@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=jiban824&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=jiban824&theme=dark&hide_border=false" alt="GitHub Streak" />
