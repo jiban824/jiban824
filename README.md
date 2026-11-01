@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jiban Jyoti Pradhan
+## Hi, I'm Jiban Jyoti Pradhan 
 
 🎯 Aspiring Data Analyst | Data Enthusiast | Problem Solver
 
